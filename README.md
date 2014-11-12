@@ -2,6 +2,3 @@ scratchPad
 ==========
 
 Playground Repo
-
-
-:poop:
