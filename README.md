@@ -3,4 +3,7 @@ scratchPad
 
 Playground Repo
 
-![Chet]({{site.baseurl}}//Capture2.PNG)
+That didn't work....
+
+Try again: ![collapse_spacing.gif]({{site.baseurl}}/collapse_spacing.gif)
+
