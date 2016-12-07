@@ -1,6 +1,0 @@
-baseurl: 'foobar'
-prose:
-  media: 'images'
-  baseurl: '/nikmd23/scratchPad/raw/master'
-site:
-  baseurl: 'hello-there'
