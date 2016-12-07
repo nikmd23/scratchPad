@@ -1,3 +1,4 @@
+baseurl: 'foobar'
 prose:
   media: 'images'
   baseurl: '/nikmd23/scratchPad/raw/master'
