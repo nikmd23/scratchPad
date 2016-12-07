@@ -5,5 +5,8 @@ Playground Repo
 
 That didn't work....
 
-Try again: ![collapse_spacing.gif]({{site.baseurl}}/collapse_spacing.gif)
+3rd: ![]({{site.baseurl}}//collapse_spacing.gif)
+
+
+Media? ![yay.gif]({{site.baseurl}}/images/yay.gif)
 
