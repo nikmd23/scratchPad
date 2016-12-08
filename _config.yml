@@ -1,6 +1,2 @@
-baseurl: /starter
-permalink: pretty
 prose:
-  rooturl: '_posts'
-  siteurl: 'http://prose.github.io/starter/'
   media: 'media'
