@@ -1,2 +1,2 @@
-Here's Chet: ![chet.PNG]({{site.baseurl}}/media/chet.PNG)
+Here's Chet: ![chet.PNG](/media/chet.PNG)
 
